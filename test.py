@@ -2,9 +2,12 @@ import pygame
 import torch
 from Env import Env
 from Dino import Dino
-from Agent import Agent,Gene_Algo
+from Agent import Agent,GeneticAlgorithm
 
-Gene_Algo = Gene_Algo()
-env = Env()
-Gene_Algo.Train()
-Gene_Algo.play()
+
+
+if __name__ == "__main__":
+    ga = GeneticAlgorithm()
+    ga.train()
+    # To run the best agent after training, uncomment the following line:
+    ga.play()
