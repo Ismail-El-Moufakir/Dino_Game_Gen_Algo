@@ -24,6 +24,7 @@ To run this project, you need to have Python installed along with the necessary 
     torch
     numpy
     matplotlib
+    pygame
     ```
 
 4. Ensure you have the necessary assets (images for Dino's actions). Place the images in the `assets` directory:
