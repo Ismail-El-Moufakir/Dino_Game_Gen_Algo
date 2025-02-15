@@ -9,8 +9,8 @@ To run this project, you need to have Python installed along with the necessary 
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/Dino_Game_Gen_Algo.git
-    cd genetic-algorithm-dino-game
+    git clone https://github.com/Ismail-El-Moufakir/Dino_Game_Gen_Algo
+    cd Dino_Game_Gen_Algo
     ```
 
 2. Create a virtual environment and activate it:
